@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Ertosfen\Ertosfen\bin\Debug\netcoreapp3.1\Ertosfen.exe
+C:\Users\User\source\repos\Ertosfen\Ertosfen\bin\Debug\netcoreapp3.1\Ertosfen.deps.json
+C:\Users\User\source\repos\Ertosfen\Ertosfen\bin\Debug\netcoreapp3.1\Ertosfen.runtimeconfig.json
+C:\Users\User\source\repos\Ertosfen\Ertosfen\bin\Debug\netcoreapp3.1\Ertosfen.runtimeconfig.dev.json
+C:\Users\User\source\repos\Ertosfen\Ertosfen\bin\Debug\netcoreapp3.1\Ertosfen.dll
+C:\Users\User\source\repos\Ertosfen\Ertosfen\bin\Debug\netcoreapp3.1\Ertosfen.pdb
+C:\Users\User\source\repos\Ertosfen\Ertosfen\obj\Debug\netcoreapp3.1\Ertosfen.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Ertosfen\Ertosfen\obj\Debug\netcoreapp3.1\Ertosfen.Form1.resources
+C:\Users\User\source\repos\Ertosfen\Ertosfen\obj\Debug\netcoreapp3.1\Ertosfen.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Ertosfen\Ertosfen\obj\Debug\netcoreapp3.1\Ertosfen.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Ertosfen\Ertosfen\obj\Debug\netcoreapp3.1\Ertosfen.AssemblyInfo.cs
+C:\Users\User\source\repos\Ertosfen\Ertosfen\obj\Debug\netcoreapp3.1\Ertosfen.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Ertosfen\Ertosfen\obj\Debug\netcoreapp3.1\Ertosfen.dll
+C:\Users\User\source\repos\Ertosfen\Ertosfen\obj\Debug\netcoreapp3.1\Ertosfen.pdb
+C:\Users\User\source\repos\Ertosfen\Ertosfen\obj\Debug\netcoreapp3.1\Ertosfen.genruntimeconfig.cache
